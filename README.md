@@ -2,7 +2,7 @@
 資展國際「跨域Java軟體工程師就業養成班」結訓小組專題
 
 ## 開發框架
-前端：Vue3 (Vite)，基於 Node.js。
+前端：Vue3 (Vite)，基於 Node.js  
 後端：SpringBoot 3.1.3
 
 ## 功能
